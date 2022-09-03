@@ -2,6 +2,8 @@
 
 python-binance
 python TA-libraries [ Technical Analysis libraries]
+numpy
+websocket-client
 
 
 

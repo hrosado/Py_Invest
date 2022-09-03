@@ -1,9 +1,9 @@
 # Keep track of python dependencies and third party libraries.
 
 python-binance
-python TA-libraries [ Technical Analysis libraries]
+TA-Lib
 numpy
-websocket-client
+websocket_client
 
 
 
